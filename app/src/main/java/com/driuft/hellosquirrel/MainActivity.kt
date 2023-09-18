@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun configureImage() {
-        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable.ic_launcher_foreground))
+        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable._f69458a611997cdb8c0c0bc084b11c8))
     }
 
     private fun configureName() {
